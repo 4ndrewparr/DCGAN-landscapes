@@ -1,4 +1,4 @@
-# DCGAN-landscapes *(work in progress)*
+# DCGAN-landscapes
 
 Deep Convolutional GAN trained to generate landscapes paintings.
 
@@ -13,7 +13,7 @@ Some important changes are:
 ![alt text](https://github.com/4ndyparr/DCGAN-landscapes/blob/master/Generator-128.png)
 ![alt text](https://github.com/4ndyparr/DCGAN-landscapes/blob/master/Discriminator-128.png)
 
-The model was trained on a Jupyter Notebook, using Kaggle Kernels. You can take a look at the code with Binder (Link).  
+The model was trained on a Jupyter Notebook, using Kaggle Kernels. You can take a look at the code at: https://mybinder.org/v2/gh/4ndyparr/DCGAN-landscapes/master    
 
 The dataset used for training was scraped from https://www.wikiart.org/ with a python scraper build specifically for the task. It includes thousands of paintings with landscapes as main theme.
 
