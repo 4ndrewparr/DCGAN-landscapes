@@ -2,8 +2,8 @@
 
 Deep Convolutional GAN trained to generate landscapes paintings.
 
-I am still trying different training configurations, but this is a sample of generated images by the best model so far:
 ![alt text](https://github.com/4ndyparr/DCGAN-landscapes/blob/master/landscapes.png)
+I am still trying different training configurations, but this is a sample of generated images by the best model so far.
 
 The architecture of the network is based on the PyTorch implementation from the paper **'Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks'** by Soumith Chintala. https://arxiv.org/abs/1511.06434
 
