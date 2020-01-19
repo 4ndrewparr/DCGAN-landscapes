@@ -1,6 +1,6 @@
 # DCGAN-landscapes
 
-Deep Convolutional GAN trained to generate landscapes paintings. *(work in progress)*
+Deep Convolutional GAN trained to generate landscape paintings. *(work in progress)*
 
 ![alt text](https://github.com/4ndyparr/DCGAN-landscapes/blob/master/landscapes.png)
 I am still trying different training configurations, but this is a sample of generated images by the best model so far.
