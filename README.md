@@ -18,7 +18,7 @@ The model was trained on a Jupyter Notebook, using Kaggle Kernels.
 
 The dataset used for training was scraped from https://www.wikiart.org/ with a python scraper built specifically for the task. It includes thousands of paintings with landscapes as main theme.  
 
-Both the **training notebook** and the **scraper** are available in this repository.
+Both the training notebook and the scraper are available in this repository.
 
 
 
